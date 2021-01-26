@@ -1,0 +1,52 @@
+[26-Sep-2019 13:37:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/nv2d04ke/lametalworks.co.uk/wp-content/themes/dxlmtheme/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/nv2d04ke/lametalworks.co.uk/wp-content/themes/dxlmtheme/index.php on line 15
+[26-Sep-2019 13:37:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/nv2d04ke/lametalworks.co.uk/wp-content/themes/dxlmtheme/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/nv2d04ke/lametalworks.co.uk/wp-content/themes/dxlmtheme/index.php on line 15
+[01-Oct-2019 05:18:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/nv2d04ke/lametalworks.co.uk/wp-content/themes/dxlmtheme/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/nv2d04ke/lametalworks.co.uk/wp-content/themes/dxlmtheme/index.php on line 15
+[04-Oct-2019 11:19:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/nv2d04ke/lametalworks.co.uk/wp-content/themes/dxlmtheme/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/nv2d04ke/lametalworks.co.uk/wp-content/themes/dxlmtheme/index.php on line 15
+[18-Dec-2019 19:18:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/nv2d04ke/lametalworks.co.uk/wp-content/themes/dxlmtheme/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/nv2d04ke/lametalworks.co.uk/wp-content/themes/dxlmtheme/index.php on line 15
+[31-Jan-2020 08:17:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/nv2d04ke/lametalworks.co.uk/wp-content/themes/dxlmtheme/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/nv2d04ke/lametalworks.co.uk/wp-content/themes/dxlmtheme/index.php on line 15
+[31-Jan-2020 08:17:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/nv2d04ke/lametalworks.co.uk/wp-content/themes/dxlmtheme/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/nv2d04ke/lametalworks.co.uk/wp-content/themes/dxlmtheme/index.php on line 15
+[31-Jan-2020 08:17:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/nv2d04ke/lametalworks.co.uk/wp-content/themes/dxlmtheme/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/nv2d04ke/lametalworks.co.uk/wp-content/themes/dxlmtheme/index.php on line 15
+[31-Jan-2020 08:17:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/nv2d04ke/lametalworks.co.uk/wp-content/themes/dxlmtheme/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/nv2d04ke/lametalworks.co.uk/wp-content/themes/dxlmtheme/index.php on line 15
+[22-Jun-2020 07:52:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/nv2d04ke/lametalworks.co.uk/wp-content/themes/dxlmtheme/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/nv2d04ke/lametalworks.co.uk/wp-content/themes/dxlmtheme/index.php on line 15
+[22-Jun-2020 07:52:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/nv2d04ke/lametalworks.co.uk/wp-content/themes/dxlmtheme/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/nv2d04ke/lametalworks.co.uk/wp-content/themes/dxlmtheme/index.php on line 15
+[22-Jun-2020 07:52:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/nv2d04ke/lametalworks.co.uk/wp-content/themes/dxlmtheme/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/nv2d04ke/lametalworks.co.uk/wp-content/themes/dxlmtheme/index.php on line 15
+[22-Jun-2020 07:52:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/nv2d04ke/lametalworks.co.uk/wp-content/themes/dxlmtheme/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/nv2d04ke/lametalworks.co.uk/wp-content/themes/dxlmtheme/index.php on line 15
