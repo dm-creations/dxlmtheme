@@ -269,7 +269,7 @@
       }
     </script>
     <script async defer
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAb8oqDbuTu7Bwp4Ppnh2lHb_JLr3aHdN4&callback=initMap">
+    src="https://maps.googleapis.com/maps/api/js?key=[key]&callback=initMap">
     </script>
 <?php get_footer(); ?>
 
